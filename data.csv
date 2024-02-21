@@ -1,0 +1,21 @@
+shirt_id,shirt_size,shirt_color,shirt_formality
+1,s,light blue,casual
+2,m,navy,formal
+3,l,black,formal
+4,xl,white,casual
+5,xs,pink,casual
+6,m,green,formal
+7,l,gray,business casual
+8,xl,maroon,casual
+9,s,yellow,casual
+10,m,purple,formal
+11,l,orange,business casual
+12,xl,beige,casual
+13,xs,teal,casual
+14,m,burgundy,formal
+15,l,brown,business casual
+16,xl,olive green,casual
+17,s,lavender,casual
+18,m,navy blue,formal
+19,l,charcoal gray,business casual
+20,xl,sky blue,casual
