@@ -1,0 +1,481 @@
+pants_id,pants_size,pants_color,pants_formality
+21,s,khaki,casual
+22,m,black,formal
+23,l,navy blue,formal
+24,xl,gray,casual
+25,xs,olive green,casual
+26,m,beige,formal
+27,l,white,formal
+28,xl,charcoal gray,casual
+29,s,brown,casual
+30,m,light blue,formal
+31,l,taupe,casual
+32,xl,dark blue,formal
+33,xs,cream,casual
+34,m,maroon,formal
+35,l,slate gray,casual
+36,xl,olive,casual
+37,s,navy,formal
+38,m,gray,formal
+39,l,burgundy,casual
+40,xl,black,formal
+41,s,beige,casual
+42,m,white,formal
+43,l,light gray,casual
+44,xl,brown,formal
+45,xs,khaki,casual
+46,m,black,formal
+47,l,navy blue,formal
+48,xl,gray,casual
+49,xs,olive green,casual
+50,m,beige,formal
+51,l,white,formal
+52,xl,charcoal gray,casual
+53,s,brown,casual
+54,m,light blue,formal
+55,l,taupe,casual
+56,xl,dark blue,formal
+57,xs,cream,casual
+58,m,maroon,formal
+59,l,slate gray,casual
+60,xl,olive,casual
+61,s,navy,formal
+62,m,gray,formal
+63,l,burgundy,casual
+64,xl,black,formal
+65,s,beige,casual
+66,m,white,formal
+67,l,light gray,casual
+68,xl,brown,formal
+69,xs,khaki,casual
+70,m,black,formal
+71,l,navy blue,formal
+72,xl,gray,casual
+73,xs,olive green,casual
+74,m,beige,formal
+75,l,white,formal
+76,xl,charcoal gray,casual
+77,s,brown,casual
+78,m,light blue,formal
+79,l,taupe,casual
+80,xl,dark blue,formal
+81,xs,cream,casual
+82,m,maroon,formal
+83,l,slate gray,casual
+84,xl,olive,casual
+85,s,navy,formal
+86,m,gray,formal
+87,l,burgundy,casual
+88,xl,black,formal
+89,s,beige,casual
+90,m,white,formal
+91,l,light gray,casual
+92,xl,brown,formal
+93,xs,khaki,casual
+94,m,black,formal
+95,l,navy blue,formal
+96,xl,gray,casual
+97,xs,olive green,casual
+98,m,beige,formal
+99,l,white,formal
+100,xl,charcoal gray,casual
+101,s,brown,casual
+102,m,light blue,formal
+103,l,taupe,casual
+104,xl,dark blue,formal
+105,xs,cream,casual
+106,m,maroon,formal
+107,l,slate gray,casual
+108,xl,olive,casual
+109,s,navy,formal
+110,m,gray,formal
+111,l,burgundy,casual
+112,xl,black,formal
+113,s,beige,casual
+114,m,white,formal
+115,l,light gray,casual
+116,xl,brown,formal
+117,xs,khaki,casual
+118,m,black,formal
+119,l,navy blue,formal
+120,xl,gray,casual
+121,xs,olive green,casual
+122,m,beige,formal
+123,l,white,formal
+124,xl,charcoal gray,casual
+125,s,brown,casual
+126,m,light blue,formal
+127,l,taupe,casual
+128,xl,dark blue,formal
+129,xs,cream,casual
+130,m,maroon,formal
+131,l,slate gray,casual
+132,xl,olive,casual
+133,s,navy,formal
+134,m,gray,formal
+135,l,burgundy,casual
+136,xl,black,formal
+137,s,beige,casual
+138,m,white,formal
+139,l,light gray,casual
+140,xl,brown,formal
+141,xs,khaki,casual
+142,m,black,formal
+143,l,navy blue,formal
+144,xl,gray,casual
+145,xs,olive green,casual
+146,m,beige,formal
+147,l,white,formal
+148,xl,charcoal gray,casual
+149,s,brown,casual
+150,m,light blue,formal
+151,l,taupe,casual
+152,xl,dark blue,formal
+153,xs,cream,casual
+154,m,maroon,formal
+155,l,slate gray,casual
+156,xl,olive,casual
+157,s,navy,formal
+158,m,gray,formal
+159,l,burgundy,casual
+160,xl,black,formal
+161,s,beige,casual
+162,m,white,formal
+163,l,light gray,casual
+164,xl,brown,formal
+165,xs,khaki,casual
+166,m,black,formal
+167,l,navy blue,formal
+168,xl,gray,casual
+169,xs,olive green,casual
+170,m,beige,formal
+171,l,white,formal
+172,xl,charcoal gray,casual
+173,s,brown,casual
+174,m,light blue,formal
+175,l,taupe,casual
+176,xl,dark blue,formal
+177,xs,cream,casual
+178,m,maroon,formal
+179,l,slate gray,casual
+180,xl,olive,casual
+181,s,navy,formal
+182,m,gray,formal
+183,l,burgundy,casual
+184,xl,black,formal
+185,s,beige,casual
+186,m,white,formal
+187,l,light gray,casual
+188,xl,brown,formal
+189,xs,khaki,casual
+190,m,black,formal
+191,l,navy blue,formal
+192,xl,gray,casual
+193,xs,olive green,casual
+194,m,beige,formal
+195,l,white,formal
+196,xl,charcoal gray,casual
+197,s,brown,casual
+198,m,light blue,formal
+199,l,taupe,casual
+200,xl,dark blue,formal
+201,xs,cream,casual
+202,m,maroon,formal
+203,l,slate gray,casual
+204,xl,olive,casual
+205,s,navy,formal
+206,m,gray,formal
+207,l,burgundy,casual
+208,xl,black,formal
+209,s,beige,casual
+210,m,white,formal
+211,l,light gray,casual
+212,xl,brown,formal
+213,xs,khaki,casual
+214,m,black,formal
+215,l,navy blue,formal
+216,xl,gray,casual
+217,xs,olive green,casual
+218,m,beige,formal
+219,l,white,formal
+220,xl,charcoal gray,casual
+221,s,brown,casual
+222,m,light blue,formal
+223,l,taupe,casual
+224,xl,dark blue,formal
+225,xs,cream,casual
+226,m,maroon,formal
+227,l,slate gray,casual
+228,xl,olive,casual
+229,s,navy,formal
+230,m,gray,formal
+231,l,burgundy,casual
+232,xl,black,formal
+233,s,beige,casual
+234,m,white,formal
+235,l,light gray,casual
+236,xl,brown,formal
+237,xs,khaki,casual
+238,m,black,formal
+239,l,navy blue,formal
+240,xl,gray,casual
+241,xs,olive green,casual
+242,m,beige,formal
+243,l,white,formal
+244,xl,charcoal gray,casual
+245,s,brown,casual
+246,m,light blue,formal
+247,l,taupe,casual
+248,xl,dark blue,formal
+249,xs,cream,casual
+250,m,maroon,formal
+251,l,slate gray,casual
+252,xl,olive,casual
+253,s,navy,formal
+254,m,gray,formal
+255,l,burgundy,casual
+256,xl,black,formal
+257,s,beige,casual
+258,m,white,formal
+259,l,light gray,casual
+260,xl,brown,formal
+261,xs,khaki,casual
+262,m,black,formal
+263,l,navy blue,formal
+264,xl,gray,casual
+265,xs,olive green,casual
+266,m,beige,formal
+267,l,white,formal
+268,xl,charcoal gray,casual
+269,s,brown,casual
+270,m,light blue,formal
+271,l,taupe,casual
+272,xl,dark blue,formal
+273,xs,cream,casual
+274,m,maroon,formal
+275,l,slate gray,casual
+276,xl,olive,casual
+277,s,navy,formal
+278,m,gray,formal
+279,l,burgundy,casual
+280,xl,black,formal
+281,s,beige,casual
+282,m,white,formal
+283,l,light gray,casual
+284,xl,brown,formal
+285,xs,khaki,casual
+286,m,black,formal
+287,l,navy blue,formal
+288,xl,gray,casual
+289,xs,olive green,casual
+290,m,beige,formal
+291,l,white,formal
+292,xl,charcoal gray,casual
+293,s,brown,casual
+294,m,light blue,formal
+295,l,taupe,casual
+296,xl,dark blue,formal
+297,xs,cream,casual
+298,m,maroon,formal
+299,l,slate gray,casual
+300,xl,olive,casual
+301,s,navy,formal
+302,m,gray,formal
+303,l,burgundy,casual
+304,xl,black,formal
+305,s,beige,casual
+306,m,white,formal
+307,l,light gray,casual
+308,xl,brown,formal
+309,xs,khaki,casual
+310,m,black,formal
+311,l,navy blue,formal
+312,xl,gray,casual
+313,xs,olive green,casual
+314,m,beige,formal
+315,l,white,formal
+316,xl,charcoal gray,casual
+317,s,brown,casual
+318,m,light blue,formal
+319,l,taupe,casual
+320,xl,dark blue,formal
+321,xs,cream,casual
+322,m,maroon,formal
+323,l,slate gray,casual
+324,xl,olive,casual
+325,s,navy,formal
+326,m,gray,formal
+327,l,burgundy,casual
+328,xl,black,formal
+329,s,beige,casual
+330,m,white,formal
+331,l,light gray,casual
+332,xl,brown,formal
+333,xs,khaki,casual
+334,m,black,formal
+335,l,navy blue,formal
+336,xl,gray,casual
+337,xs,olive green,casual
+338,m,beige,formal
+339,l,white,formal
+340,xl,charcoal gray,casual
+341,s,brown,casual
+342,m,light blue,formal
+343,l,taupe,casual
+344,xl,dark blue,formal
+345,xs,cream,casual
+346,m,maroon,formal
+347,l,slate gray,casual
+348,xl,olive,casual
+349,s,navy,formal
+350,m,gray,formal
+351,l,burgundy,casual
+352,xl,black,formal
+353,s,beige,casual
+354,m,white,formal
+355,l,light gray,casual
+356,xl,brown,formal
+357,xs,khaki,casual
+358,m,black,formal
+359,l,navy blue,formal
+360,xl,gray,casual
+361,xs,olive green,casual
+362,m,beige,formal
+363,l,white,formal
+364,xl,charcoal gray,casual
+365,s,brown,casual
+366,m,light blue,formal
+367,l,taupe,casual
+368,xl,dark blue,formal
+369,xs,cream,casual
+370,m,maroon,formal
+371,l,slate gray,casual
+372,xl,olive,casual
+373,s,navy,formal
+374,m,gray,formal
+375,l,burgundy,casual
+376,xl,black,formal
+377,s,beige,casual
+378,m,white,formal
+379,l,light gray,casual
+380,xl,brown,formal
+381,xs,khaki,casual
+382,m,black,formal
+383,l,navy blue,formal
+384,xl,gray,casual
+385,xs,olive green,casual
+386,m,beige,formal
+387,l,white,formal
+388,xl,charcoal gray,casual
+389,s,brown,casual
+390,m,light blue,formal
+391,l,taupe,casual
+392,xl,dark blue,formal
+393,xs,cream,casual
+394,m,maroon,formal
+395,l,slate gray,casual
+396,xl,olive,casual
+397,s,navy,formal
+398,m,gray,formal
+399,l,burgundy,casual
+400,xl,black,formal
+401,s,beige,casual
+402,m,white,formal
+403,l,light gray,casual
+404,xl,brown,formal
+405,xs,khaki,casual
+406,m,black,formal
+407,l,navy blue,formal
+408,xl,gray,casual
+409,xs,olive green,casual
+410,m,beige,formal
+411,l,white,formal
+412,xl,charcoal gray,casual
+413,s,brown,casual
+414,m,light blue,formal
+415,l,taupe,casual
+416,xl,dark blue,formal
+417,xs,cream,casual
+418,m,maroon,formal
+419,l,slate gray,casual
+420,xl,olive,casual
+421,s,navy,formal
+422,m,gray,formal
+423,l,burgundy,casual
+424,xl,black,formal
+425,s,beige,casual
+426,m,white,formal
+427,l,light gray,casual
+428,xl,brown,formal
+429,xs,khaki,casual
+430,m,black,formal
+431,l,navy blue,formal
+432,xl,gray,casual
+433,xs,olive green,casual
+434,m,beige,formal
+435,l,white,formal
+436,xl,charcoal gray,casual
+437,s,brown,casual
+438,m,light blue,formal
+439,l,taupe,casual
+440,xl,dark blue,formal
+441,xs,cream,casual
+442,m,maroon,formal
+443,l,slate gray,casual
+444,xl,olive,casual
+445,s,navy,formal
+446,m,gray,formal
+447,l,burgundy,casual
+448,xl,black,formal
+449,s,beige,casual
+450,m,white,formal
+451,l,light gray,casual
+452,xl,brown,formal
+453,xs,khaki,casual
+454,m,black,formal
+455,l,navy blue,formal
+456,xl,gray,casual
+457,xs,olive green,casual
+458,m,beige,formal
+459,l,white,formal
+460,xl,charcoal gray,casual
+461,s,brown,casual
+462,m,light blue,formal
+463,l,taupe,casual
+464,xl,dark blue,formal
+465,xs,cream,casual
+466,m,maroon,formal
+467,l,slate gray,casual
+468,xl,olive,casual
+469,s,navy,formal
+470,m,gray,formal
+471,l,burgundy,casual
+472,xl,black,formal
+473,s,beige,casual
+474,m,white,formal
+475,l,light gray,casual
+476,xl,brown,formal
+477,xs,khaki,casual
+478,m,black,formal
+479,l,navy blue,formal
+480,xl,gray,casual
+481,xs,olive green,casual
+482,m,beige,formal
+483,l,white,formal
+484,xl,charcoal gray,casual
+485,s,brown,casual
+486,m,light blue,formal
+487,l,taupe,casual
+488,xl,dark blue,formal
+489,xs,cream,casual
+490,m,maroon,formal
+491,l,slate gray,casual
+492,xl,olive,casual
+493,s,navy,formal
+494,m,gray,formal
+495,l,burgundy,casual
+496,xl,black,formal
+497,s,beige,casual
+498,m,white,formal
+499,l,light gray,casual
+500,xl,brown,formal
