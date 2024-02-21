@@ -1,0 +1,501 @@
+jacket_id,jacket_size,jacket_color,jacket_formality,jacket_type
+1,s,black,casual,bomber
+2,m,navy blue,formal,blazer
+3,l,gray,formal,blazer
+4,xl,olive green,casual,bomber
+5,xs,beige,casual,windbreaker
+6,m,white,formal,blazer
+7,l,charcoal gray,casual,bomber
+8,xl,brown,casual,windbreaker
+9,s,khaki,casual,bomber
+10,m,black,formal,blazer
+11,l,navy blue,formal,blazer
+12,xl,gray,casual,bomber
+13,xs,olive green,casual,windbreaker
+14,m,beige,formal,blazer
+15,l,white,formal,blazer
+16,xl,charcoal gray,casual,bomber
+17,s,brown,casual,windbreaker
+18,m,khaki,casual,bomber
+19,l,black,formal,blazer
+20,xl,navy blue,formal,blazer
+21,xs,gray,casual,bomber
+22,m,olive green,casual,windbreaker
+23,l,beige,formal,blazer
+24,xl,white,formal,blazer
+25,s,charcoal gray,casual,bomber
+26,m,brown,casual,windbreaker
+27,l,khaki,casual,bomber
+28,xl,black,formal,blazer
+29,xs,navy blue,formal,blazer
+30,m,gray,casual,bomber
+31,l,olive green,casual,windbreaker
+32,xl,beige,formal,blazer
+33,s,white,formal,blazer
+34,m,charcoal gray,casual,bomber
+35,l,brown,casual,windbreaker
+36,xl,khaki,casual,bomber
+37,xs,black,formal,blazer
+38,m,navy blue,formal,blazer
+39,l,gray,casual,bomber
+40,xl,olive green,casual,windbreaker
+41,s,beige,formal,blazer
+42,m,white,formal,blazer
+43,l,charcoal gray,casual,bomber
+44,xl,brown,casual,windbreaker
+45,xs,khaki,casual,bomber
+46,m,black,formal,blazer
+47,l,navy blue,formal,blazer
+48,xl,gray,casual,bomber
+49,s,olive green,casual,windbreaker
+50,m,beige,formal,blazer
+51,l,white,formal,blazer
+52,xl,charcoal gray,casual,bomber
+53,xs,brown,casual,windbreaker
+54,m,khaki,casual,bomber
+55,l,black,formal,blazer
+56,xl,navy blue,formal,blazer
+57,s,gray,casual,bomber
+58,m,olive green,casual,windbreaker
+59,l,beige,formal,blazer
+60,xl,white,formal,blazer
+61,xs,charcoal gray,casual,bomber
+62,m,brown,casual,windbreaker
+63,l,khaki,casual,bomber
+64,xl,black,formal,blazer
+65,s,navy blue,formal,blazer
+66,m,gray,casual,bomber
+67,l,olive green,casual,windbreaker
+68,xl,beige,formal,blazer
+69,xs,white,formal,blazer
+70,m,charcoal gray,casual,bomber
+71,l,brown,casual,windbreaker
+72,xl,khaki,casual,bomber
+73,s,black,formal,blazer
+74,m,navy blue,formal,blazer
+75,l,gray,casual,bomber
+76,xl,olive green,casual,windbreaker
+77,xs,beige,formal,blazer
+78,m,white,formal,blazer
+79,l,charcoal gray,casual,bomber
+80,xl,brown,casual,windbreaker
+81,s,khaki,casual,bomber
+82,m,black,formal,blazer
+83,l,navy blue,formal,blazer
+84,xl,gray,casual,bomber
+85,xs,olive green,casual,windbreaker
+86,m,beige,formal,blazer
+87,l,white,formal,blazer
+88,xl,charcoal gray,casual,bomber
+89,s,brown,casual,windbreaker
+90,m,khaki,casual,bomber
+91,l,black,formal,blazer
+92,xl,navy blue,formal,blazer
+93,xs,gray,casual,bomber
+94,m,olive green,casual,windbreaker
+95,l,beige,formal,blazer
+96,xl,white,formal,blazer
+97,s,charcoal gray,casual,bomber
+98,m,brown,casual,windbreaker
+99,l,khaki,casual,bomber
+100,xl,black,formal,blazer
+101,s,navy blue,formal,blazer
+102,m,gray,casual,bomber
+103,l,olive green,casual,windbreaker
+104,xl,beige,formal,blazer
+105,xs,white,formal,blazer
+106,m,charcoal gray,casual,bomber
+107,l,brown,casual,windbreaker
+108,xl,khaki,casual,bomber
+109,s,black,formal,blazer
+110,m,navy blue,formal,blazer
+111,l,gray,casual,bomber
+112,xl,olive green,casual,windbreaker
+113,xs,beige,formal,blazer
+114,m,white,formal,blazer
+115,l,charcoal gray,casual,bomber
+116,xl,brown,casual,windbreaker
+117,s,khaki,casual,bomber
+118,m,black,formal,blazer
+119,l,navy blue,formal,blazer
+120,xl,gray,casual,bomber
+121,xs,olive green,casual,windbreaker
+122,m,beige,formal,blazer
+123,l,white,formal,blazer
+124,xl,charcoal gray,casual,bomber
+125,s,brown,casual,windbreaker
+126,m,khaki,casual,bomber
+127,l,black,formal,blazer
+128,xl,navy blue,formal,blazer
+129,xs,gray,casual,bomber
+130,m,olive green,casual,windbreaker
+131,l,beige,formal,blazer
+132,xl,white,formal,blazer
+133,s,charcoal gray,casual,bomber
+134,m,brown,casual,windbreaker
+135,l,khaki,casual,bomber
+136,xl,black,formal,blazer
+137,s,navy blue,formal,blazer
+138,m,gray,casual,bomber
+139,l,olive green,casual,windbreaker
+140,xl,beige,formal,blazer
+141,xs,white,formal,blazer
+142,m,charcoal gray,casual,bomber
+143,l,brown,casual,windbreaker
+144,xl,khaki,casual,bomber
+145,s,black,formal,blazer
+146,m,navy blue,formal,blazer
+147,l,gray,casual,bomber
+148,xl,olive green,casual,windbreaker
+149,xs,beige,formal,blazer
+150,m,white,formal,blazer
+151,l,charcoal gray,casual,bomber
+152,xl,brown,casual,windbreaker
+153,s,khaki,casual,bomber
+154,m,black,formal,blazer
+155,l,navy blue,formal,blazer
+156,xl,gray,casual,bomber
+157,xs,olive green,casual,windbreaker
+158,m,beige,formal,blazer
+159,l,white,formal,blazer
+160,xl,charcoal gray,casual,bomber
+161,s,brown,casual,windbreaker
+162,m,khaki,casual,bomber
+163,l,black,formal,blazer
+164,xl,navy blue,formal,blazer
+165,xs,gray,casual,bomber
+166,m,olive green,casual,windbreaker
+167,l,beige,formal,blazer
+168,xl,white,formal,blazer
+169,s,charcoal gray,casual,bomber
+170,m,brown,casual,windbreaker
+171,l,khaki,casual,bomber
+172,xl,black,formal,blazer
+173,s,navy blue,formal,blazer
+174,m,gray,casual,bomber
+175,l,olive green,casual,windbreaker
+176,xl,beige,formal,blazer
+177,xs,white,formal,blazer
+178,m,charcoal gray,casual,bomber
+179,l,brown,casual,windbreaker
+180,xl,khaki,casual,bomber
+181,s,black,formal,blazer
+182,m,navy blue,formal,blazer
+183,l,gray,casual,bomber
+184,xl,olive green,casual,windbreaker
+185,xs,beige,formal,blazer
+186,m,white,formal,blazer
+187,l,charcoal gray,casual,bomber
+188,xl,brown,casual,windbreaker
+189,s,khaki,casual,bomber
+190,m,black,formal,blazer
+191,l,navy blue,formal,blazer
+192,xl,gray,casual,bomber
+193,xs,olive green,casual,windbreaker
+194,m,beige,formal,blazer
+195,l,white,formal,blazer
+196,xl,charcoal gray,casual,bomber
+197,s,brown,casual,windbreaker
+198,m,khaki,casual,bomber
+199,l,black,formal,blazer
+200,xl,navy blue,formal,blazer
+201,xs,gray,casual,bomber
+202,m,olive green,casual,windbreaker
+203,l,beige,formal,blazer
+204,xl,white,formal,blazer
+205,s,charcoal gray,casual,bomber
+206,m,brown,casual,windbreaker
+207,l,khaki,casual,bomber
+208,xl,black,formal,blazer
+209,s,navy blue,formal,blazer
+210,m,gray,casual,bomber
+211,l,olive green,casual,windbreaker
+212,xl,beige,formal,blazer
+213,xs,white,formal,blazer
+214,m,charcoal gray,casual,bomber
+215,l,brown,casual,windbreaker
+216,xl,khaki,casual,bomber
+217,s,black,formal,blazer
+218,m,navy blue,formal,blazer
+219,l,gray,casual,bomber
+220,xl,olive green,casual,windbreaker
+221,xs,beige,formal,blazer
+222,m,white,formal,blazer
+223,l,charcoal gray,casual,bomber
+224,xl,brown,casual,windbreaker
+225,s,khaki,casual,bomber
+226,m,black,formal,blazer
+227,l,navy blue,formal,blazer
+228,xl,gray,casual,bomber
+229,xs,olive green,casual,windbreaker
+230,m,beige,formal,blazer
+231,l,white,formal,blazer
+232,xl,charcoal gray,casual,bomber
+233,s,brown,casual,windbreaker
+234,m,khaki,casual,bomber
+235,l,black,formal,blazer
+236,xl,navy blue,formal,blazer
+237,xs,gray,casual,bomber
+238,m,olive green,casual,windbreaker
+239,l,beige,formal,blazer
+240,xl,white,formal,blazer
+241,s,charcoal gray,casual,bomber
+242,m,brown,casual,windbreaker
+243,l,khaki,casual,bomber
+244,xl,black,formal,blazer
+245,s,navy blue,formal,blazer
+246,m,gray,casual,bomber
+247,l,olive green,casual,windbreaker
+248,xl,beige,formal,blazer
+249,xs,white,formal,blazer
+250,m,charcoal gray,casual,bomber
+251,l,brown,casual,windbreaker
+252,xl,khaki,casual,bomber
+253,s,black,formal,blazer
+254,m,navy blue,formal,blazer
+255,l,gray,casual,bomber
+256,xl,olive green,casual,windbreaker
+257,xs,beige,formal,blazer
+258,m,white,formal,blazer
+259,l,charcoal gray,casual,bomber
+260,xl,brown,casual,windbreaker
+261,s,khaki,casual,bomber
+262,m,black,formal,blazer
+263,l,navy blue,formal,blazer
+264,xl,gray,casual,bomber
+265,xs,olive green,casual,windbreaker
+266,m,beige,formal,blazer
+267,l,white,formal,blazer
+268,xl,charcoal gray,casual,bomber
+269,s,brown,casual,windbreaker
+270,m,khaki,casual,bomber
+271,l,black,formal,blazer
+272,xl,navy blue,formal,blazer
+273,xs,gray,casual,bomber
+274,m,olive green,casual,windbreaker
+275,l,beige,formal,blazer
+276,xl,white,formal,blazer
+277,s,charcoal gray,casual,bomber
+278,m,brown,casual,windbreaker
+279,l,khaki,casual,bomber
+280,xl,black,formal,blazer
+281,s,navy blue,formal,blazer
+282,m,gray,casual,bomber
+283,l,olive green,casual,windbreaker
+284,xl,beige,formal,blazer
+285,xs,white,formal,blazer
+286,m,charcoal gray,casual,bomber
+287,l,brown,casual,windbreaker
+288,xl,khaki,casual,bomber
+289,s,black,formal,blazer
+290,m,navy blue,formal,blazer
+291,l,gray,casual,bomber
+292,xl,olive green,casual,windbreaker
+293,xs,beige,formal,blazer
+294,m,white,formal,blazer
+295,l,charcoal gray,casual,bomber
+296,xl,brown,casual,windbreaker
+297,s,khaki,casual,bomber
+298,m,black,formal,blazer
+299,l,navy blue,formal,blazer
+300,xl,gray,casual,bomber
+301,xs,olive green,casual,windbreaker
+302,m,beige,formal,blazer
+303,l,white,formal,blazer
+304,xl,charcoal gray,casual,bomber
+305,s,brown,casual,windbreaker
+306,m,khaki,casual,bomber
+307,l,black,formal,blazer
+308,xl,navy blue,formal,blazer
+309,xs,gray,casual,bomber
+310,m,olive green,casual,windbreaker
+311,l,beige,formal,blazer
+312,xl,white,formal,blazer
+313,s,charcoal gray,casual,bomber
+314,m,brown,casual,windbreaker
+315,l,khaki,casual,bomber
+316,xl,black,formal,blazer
+317,s,navy blue,formal,blazer
+318,m,gray,casual,bomber
+319,l,olive green,casual,windbreaker
+320,xl,beige,formal,blazer
+321,xs,white,formal,blazer
+322,m,charcoal gray,casual,bomber
+323,l,brown,casual,windbreaker
+324,xl,khaki,casual,bomber
+325,s,black,formal,blazer
+326,m,navy blue,formal,blazer
+327,l,gray,casual,bomber
+328,xl,olive green,casual,windbreaker
+329,xs,beige,formal,blazer
+330,m,white,formal,blazer
+331,l,charcoal gray,casual,bomber
+332,xl,brown,casual,windbreaker
+333,s,khaki,casual,bomber
+334,m,black,formal,blazer
+335,l,navy blue,formal,blazer
+336,xl,gray,casual,bomber
+337,xs,olive green,casual,windbreaker
+338,m,beige,formal,blazer
+339,l,white,formal,blazer
+340,xl,charcoal gray,casual,bomber
+341,s,brown,casual,windbreaker
+342,m,khaki,casual,bomber
+343,l,black,formal,blazer
+344,xl,navy blue,formal,blazer
+345,xs,gray,casual,bomber
+346,m,olive green,casual,windbreaker
+347,l,beige,formal,blazer
+348,xl,white,formal,blazer
+349,s,charcoal gray,casual,bomber
+350,m,brown,casual,windbreaker
+351,l,khaki,casual,bomber
+352,xl,black,formal,blazer
+353,s,navy blue,formal,blazer
+354,m,gray,casual,bomber
+355,l,olive green,casual,windbreaker
+356,xl,beige,formal,blazer
+357,xs,white,formal,blazer
+358,m,charcoal gray,casual,bomber
+359,l,brown,casual,windbreaker
+360,xl,khaki,casual,bomber
+361,s,black,formal,blazer
+362,m,navy blue,formal,blazer
+363,l,gray,casual,bomber
+364,xl,olive green,casual,windbreaker
+365,xs,beige,formal,blazer
+366,m,white,formal,blazer
+367,l,charcoal gray,casual,bomber
+368,xl,brown,casual,windbreaker
+369,s,khaki,casual,bomber
+370,m,black,formal,blazer
+371,l,navy blue,formal,blazer
+372,xl,gray,casual,bomber
+373,xs,olive green,casual,windbreaker
+374,m,beige,formal,blazer
+375,l,white,formal,blazer
+376,xl,charcoal gray,casual,bomber
+377,s,brown,casual,windbreaker
+378,m,khaki,casual,bomber
+379,l,black,formal,blazer
+380,xl,navy blue,formal,blazer
+381,xs,gray,casual,bomber
+382,m,olive green,casual,windbreaker
+383,l,beige,formal,blazer
+384,xl,white,formal,blazer
+385,s,charcoal gray,casual,bomber
+386,m,brown,casual,windbreaker
+387,l,khaki,casual,bomber
+388,xl,black,formal,blazer
+389,s,navy blue,formal,blazer
+390,m,gray,casual,bomber
+391,l,olive green,casual,windbreaker
+392,xl,beige,formal,blazer
+393,xs,white,formal,blazer
+394,m,charcoal gray,casual,bomber
+395,l,brown,casual,windbreaker
+396,xl,khaki,casual,bomber
+397,s,black,formal,blazer
+398,m,navy blue,formal,blazer
+399,l,gray,casual,bomber
+400,xl,olive green,casual,windbreaker
+401,xs,beige,formal,blazer
+402,m,white,formal,blazer
+403,l,charcoal gray,casual,bomber
+404,xl,brown,casual,windbreaker
+405,s,khaki,casual,bomber
+406,m,black,formal,blazer
+407,l,navy blue,formal,blazer
+408,xl,gray,casual,bomber
+409,xs,olive green,casual,windbreaker
+410,m,beige,formal,blazer
+411,l,white,formal,blazer
+412,xl,charcoal gray,casual,bomber
+413,s,brown,casual,windbreaker
+414,m,khaki,casual,bomber
+415,l,black,formal,blazer
+416,xl,navy blue,formal,blazer
+417,xs,gray,casual,bomber
+418,m,olive green,casual,windbreaker
+419,l,beige,formal,blazer
+420,xl,white,formal,blazer
+421,s,charcoal gray,casual,bomber
+422,m,brown,casual,windbreaker
+423,l,khaki,casual,bomber
+424,xl,black,formal,blazer
+425,s,navy blue,formal,blazer
+426,m,gray,casual,bomber
+427,l,olive green,casual,windbreaker
+428,xl,beige,formal,blazer
+429,xs,white,formal,blazer
+430,m,charcoal gray,casual,bomber
+431,l,brown,casual,windbreaker
+432,xl,khaki,casual,bomber
+433,s,black,formal,blazer
+434,m,navy blue,formal,blazer
+435,l,gray,casual,bomber
+436,xl,olive green,casual,windbreaker
+437,xs,beige,formal,blazer
+438,m,white,formal,blazer
+439,l,charcoal gray,casual,bomber
+440,xl,brown,casual,windbreaker
+441,s,khaki,casual,bomber
+442,m,black,formal,blazer
+443,l,navy blue,formal,blazer
+444,xl,gray,casual,bomber
+445,xs,olive green,casual,windbreaker
+446,m,beige,formal,blazer
+447,l,white,formal,blazer
+448,xl,charcoal gray,casual,bomber
+449,s,brown,casual,windbreaker
+450,m,khaki,casual,bomber
+451,l,black,formal,blazer
+452,xl,navy blue,formal,blazer
+453,xs,gray,casual,bomber
+454,m,olive green,casual,windbreaker
+455,l,beige,formal,blazer
+456,xl,white,formal,blazer
+457,s,charcoal gray,casual,bomber
+458,m,brown,casual,windbreaker
+459,l,khaki,casual,bomber
+460,xl,black,formal,blazer
+461,s,navy blue,formal,blazer
+462,m,gray,casual,bomber
+463,l,olive green,casual,windbreaker
+464,xl,beige,formal,blazer
+465,xs,white,formal,blazer
+466,m,charcoal gray,casual,bomber
+467,l,brown,casual,windbreaker
+468,xl,khaki,casual,bomber
+469,s,black,formal,blazer
+470,m,navy blue,formal,blazer
+471,l,gray,casual,bomber
+472,xl,olive green,casual,windbreaker
+473,xs,beige,formal,blazer
+474,m,white,formal,blazer
+475,l,charcoal gray,casual,bomber
+476,xl,brown,casual,windbreaker
+477,s,khaki,casual,bomber
+478,m,black,formal,blazer
+479,l,navy blue,formal,blazer
+480,xl,gray,casual,bomber
+481,xs,olive green,casual,windbreaker
+482,m,beige,formal,blazer
+483,l,white,formal,blazer
+484,xl,charcoal gray,casual,bomber
+485,s,brown,casual,windbreaker
+486,m,khaki,casual,bomber
+487,l,black,formal,blazer
+488,xl,navy blue,formal,blazer
+489,xs,gray,casual,bomber
+490,m,olive green,casual,windbreaker
+491,l,beige,formal,blazer
+492,xl,white,formal,blazer
+493,s,charcoal gray,casual,bomber
+494,m,brown,casual,windbreaker
+495,l,khaki,casual,bomber
+496,xl,black,formal,blazer
+497,s,navy blue,formal,blazer
+498,m,gray,casual,bomber
+499,l,olive green,casual,windbreaker
+500,xl,beige,formal,blazer
