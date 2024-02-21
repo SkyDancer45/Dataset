@@ -1,0 +1,530 @@
+shoe_id,shoe_size,shoe_color,shoe_formality,shoe_type
+1,7,black,formal,oxford
+2,8,brown,formal,oxford
+3,9,black,formal,oxford
+4,10,brown,formal,oxford
+5,11,black,formal,oxford
+6,12,brown,formal,oxford
+7,7,black,casual,sneaker
+8,8,white,casual,sneaker
+9,9,black,casual,sneaker
+10,10,white,casual,sneaker
+11,11,black,casual,sneaker
+12,12,white,casual,sneaker
+13,7,brown,formal,loafer
+14,8,black,formal,loafer
+15,9,brown,formal,loafer
+16,10,black,formal,loafer
+17,11,brown,formal,loafer
+18,12,black,formal,loafer
+19,7,blue,casual,loafer
+20,8,gray,casual,loafer
+21,9,blue,casual,loafer
+22,10,gray,casual,loafer
+23,11,blue,casual,loafer
+24,12,gray,casual,loafer
+25,7,brown,formal,monk strap
+26,8,black,formal,monk strap
+27,9,brown,formal,monk strap
+28,10,black,formal,monk strap
+29,11,brown,formal,monk strap
+30,12,black,formal,monk strap
+31,7,black,casual,boot
+32,8,brown,casual,boot
+33,9,black,casual,boot
+34,10,brown,casual,boot
+35,11,black,casual,boot
+36,12,brown,casual,boot
+37,7,black,formal,derby
+38,8,brown,formal,derby
+39,9,black,formal,derby
+40,10,brown,formal,derby
+41,11,black,formal,derby
+42,12,brown,formal,derby
+43,7,blue,casual,derby
+44,8,gray,casual,derby
+45,9,blue,casual,derby
+46,10,gray,casual,derby
+47,11,blue,casual,derby
+48,12,gray,casual,derby
+49,7,brown,formal,loafer
+50,8,black,formal,loafer
+51,9,brown,formal,loafer
+52,10,black,formal,loafer
+53,11,brown,formal,loafer
+54,12,black,formal,loafer
+55,7,blue,casual,loafer
+56,8,gray,casual,loafer
+57,9,blue,casual,loafer
+58,10,gray,casual,loafer
+59,11,blue,casual,loafer
+60,12,gray,casual,loafer
+61,7,brown,formal,oxford
+62,8,black,formal,oxford
+63,9,brown,formal,oxford
+64,10,black,formal,oxford
+65,11,brown,formal,oxford
+66,12,black,formal,oxford
+67,7,black,casual,sneaker
+68,8,white,casual,sneaker
+69,9,black,casual,sneaker
+70,10,white,casual,sneaker
+71,11,black,casual,sneaker
+72,12,white,casual,sneaker
+73,7,brown,formal,loafer
+74,8,black,formal,loafer
+75,9,brown,formal,loafer
+76,10,black,formal,loafer
+77,11,brown,formal,loafer
+78,12,black,formal,loafer
+79,7,blue,casual,loafer
+80,8,gray,casual,loafer
+81,9,blue,casual,loafer
+82,10,gray,casual,loafer
+83,11,blue,casual,loafer
+84,12,gray,casual,loafer
+85,7,brown,formal,monk strap
+86,8,black,formal,monk strap
+87,9,brown,formal,monk strap
+88,10,black,formal,monk strap
+89,11,brown,formal,monk strap
+90,12,black,formal,monk strap
+91,7,black,casual,boot
+92,8,brown,casual,boot
+93,9,black,casual,boot
+94,10,brown,casual,boot
+95,11,black,casual,boot
+96,12,brown,casual,boot
+97,7,black,formal,derby
+98,8,brown,formal,derby
+99,9,black,formal,derby
+100,10,brown,formal,derby
+101,11,black,formal,derby
+102,12,brown,formal,derby
+103,7,blue,casual,derby
+104,8,gray,casual,derby
+105,9,blue,casual,derby
+106,10,gray,casual,derby
+107,11,blue,casual,derby
+108,12,gray,casual,derby
+109,7,brown,formal,loafer
+110,8,black,formal,loafer
+111,9,brown,formal,loafer
+112,10,black,formal,loafer
+113,11,brown,formal,loafer
+114,12,black,formal,loafer
+115,7,blue,casual,loafer
+116,8,gray,casual,loafer
+117,9,blue,casual,loafer
+118,10,gray,casual,loafer
+119,11,blue,casual,loafer
+120,12,gray,casual,loafer
+121,7,brown,formal,oxford
+122,8,black,formal,oxford
+123,9,brown,formal,oxford
+124,10,black,formal,oxford
+125,11,brown,formal,oxford
+126,12,black,formal,oxford
+127,7,black,casual,sneaker
+128,8,white,casual,sneaker
+129,9,black,casual,sneaker
+130,10,white,casual,sneaker
+131,11,black,casual,sneaker
+132,12,white,casual,sneaker
+133,7,brown,formal,loafer
+134,8,black,formal,loafer
+135,9,brown,formal,loafer
+136,10,black,formal,loafer
+137,11,brown,formal,loafer
+138,12,black,formal,loafer
+139,7,blue,casual,loafer
+140,8,gray,casual,loafer
+141,9,blue,casual,loafer
+142,10,gray,casual,loafer
+143,11,blue,casual,loafer
+144,12,gray,casual,loafer
+145,7,brown,formal,monk strap
+146,8,black,formal,monk strap
+147,9,brown,formal,monk strap
+148,10,black,formal,monk strap
+149,11,brown,formal,monk strap
+150,12,black,formal,monk strap
+151,7,black,casual,boot
+152,8,brown,casual,boot
+153,9,black,casual,boot
+154,10,brown,casual,boot
+155,11,black,casual,boot
+156,12,brown,casual,boot
+157,7,black,formal,derby
+158,8,brown,formal,derby
+159,9,black,formal,derby
+160,10,brown,formal,derby
+161,11,black,formal,derby
+162,12,brown,formal,derby
+163,7,blue,casual,derby
+164,8,gray,casual,derby
+165,9,blue,casual,derby
+166,10,gray,casual,derby
+167,11,blue,casual,derby
+168,12,gray,casual,derby
+169,7,brown,formal,loafer
+170,8,black,formal,loafer
+171,9,brown,formal,loafer
+172,10,black,formal,loafer
+173,11,brown,formal,loafer
+174,12,black,formal,loafer
+175,7,blue,casual,loafer
+176,8,gray,casual,loafer
+177,9,blue,casual,loafer
+178,10,gray,casual,loafer
+179,11,blue,casual,loafer
+180,12,gray,casual,loafer
+181,7,brown,formal,oxford
+182,8,black,formal,oxford
+183,9,brown,formal,oxford
+184,10,black,formal,oxford
+185,11,brown,formal,oxford
+186,12,black,formal,oxford
+187,7,black,casual,sneaker
+188,8,white,casual,sneaker
+189,9,black,casual,sneaker
+190,10,white,casual,sneaker
+191,11,black,casual,sneaker
+192,12,white,casual,sneaker
+193,7,brown,formal,loafer
+194,8,black,formal,loafer
+195,9,brown,formal,loafer
+196,10,black,formal,loafer
+197,11,brown,formal,loafer
+198,12,black,formal,loafer
+199,7,blue,casual,loafer
+200,8,gray,casual,loafer
+201,9,blue,casual,loafer
+202,10,gray,casual,loafer
+203,11,blue,casual,loafer
+204,12,gray,casual,loafer
+205,7,brown,formal,monk strap
+206,8,black,formal,monk strap
+207,9,brown,formal,monk strap
+208,10,black,formal,monk strap
+209,11,brown,formal,monk strap
+210,12,black,formal,monk strap
+211,7,black,casual,boot
+212,8,brown,casual,boot
+213,9,black,casual,boot
+214,10,brown,casual,boot
+215,11,black,casual,boot
+216,12,brown,casual,boot
+217,7,black,formal,derby
+218,8,brown,formal,derby
+219,9,black,formal,derby
+220,10,brown,formal,derby
+221,11,black,formal,derby
+222,12,brown,formal,derby
+223,7,blue,casual,derby
+224,8,gray,casual,derby
+225,9,blue,casual,derby
+226,10,gray,casual,derby
+227,11,blue,casual,derby
+228,12,gray,casual,derby
+229,7,brown,formal,loafer
+230,8,black,formal,loafer
+231,9,brown,formal,loafer
+232,10,black,formal,loafer
+233,11,brown,formal,loafer
+234,12,black,formal,loafer
+235,7,blue,casual,loafer
+236,8,gray,casual,loafer
+237,9,blue,casual,loafer
+238,10,gray,casual,loafer
+239,11,blue,casual,loafer
+240,12,gray,casual,loafer
+241,7,brown,formal,oxford
+242,8,black,formal,oxford
+243,9,brown,formal,oxford
+244,10,black,formal,oxford
+245,11,brown,formal,oxford
+
+
+246,12,black,formal,oxford
+247,7,black,casual,sneaker
+248,8,white,casual,sneaker
+249,9,black,casual,sneaker
+250,10,white,casual,sneaker
+251,11,black,casual,sneaker
+252,12,white,casual,sneaker
+253,7,brown,formal,loafer
+254,8,black,formal,loafer
+255,9,brown,formal,loafer
+256,10,black,formal,loafer
+257,11,brown,formal,loafer
+258,12,black,formal,loafer
+259,7,blue,casual,loafer
+260,8,gray,casual,loafer
+261,9,blue,casual,loafer
+262,10,gray,casual,loafer
+263,11,blue,casual,loafer
+264,12,gray,casual,loafer
+265,7,brown,formal,monk strap
+266,8,black,formal,monk strap
+267,9,brown,formal,monk strap
+268,10,black,formal,monk strap
+269,11,brown,formal,monk strap
+270,12,black,formal,monk strap
+271,7,black,casual,boot
+272,8,brown,casual,boot
+273,9,black,casual,boot
+274,10,brown,casual,boot
+275,11,black,casual,boot
+276,12,brown,casual,boot
+277,7,black,formal,derby
+278,8,brown,formal,derby
+279,9,black,formal,derby
+280,10,brown,formal,derby
+281,11,black,formal,derby
+282,12,brown,formal,derby
+283,7,blue,casual,derby
+284,8,gray,casual,derby
+285,9,blue,casual,derby
+286,10,gray,casual,derby
+287,11,blue,casual,derby
+288,12,gray,casual,derby
+289,7,brown,formal,loafer
+290,8,black,formal,loafer
+291,9,brown,formal,loafer
+292,10,black,formal,loafer
+293,11,brown,formal,loafer
+294,12,black,formal,loafer
+295,7,blue,casual,loafer
+296,8,gray,casual,loafer
+297,9,blue,casual,loafer
+298,10,gray,casual,loafer
+299,11,blue,casual,loafer
+300,12,gray,casual,loafer
+301,7,brown,formal,oxford
+302,8,black,formal,oxford
+303,9,brown,formal,oxford
+304,10,black,formal,oxford
+305,11,brown,formal,oxford
+306,12,black,formal,oxford
+307,7,black,casual,sneaker
+308,8,white,casual,sneaker
+309,9,black,casual,sneaker
+310,10,white,casual,sneaker
+311,11,black,casual,sneaker
+312,12,white,casual,sneaker
+313,7,brown,formal,loafer
+314,8,black,formal,loafer
+315,9,brown,formal,loafer
+316,10,black,formal,loafer
+317,11,brown,formal,loafer
+318,12,black,formal,loafer
+319,7,blue,casual,loafer
+320,8,gray,casual,loafer
+321,9,blue,casual,loafer
+322,10,gray,casual,loafer
+323,11,blue,casual,loafer
+324,12,gray,casual,loafer
+325,7,brown,formal,monk strap
+326,8,black,formal,monk strap
+327,9,brown,formal,monk strap
+328,10,black,formal,monk strap
+329,11,brown,formal,monk strap
+330,12,black,formal,monk strap
+331,7,black,casual,boot
+332,8,brown,casual,boot
+333,9,black,casual,boot
+334,10,brown,casual,boot
+335,11,black,casual,boot
+336,12,brown,casual,boot
+337,7,black,formal,derby
+338,8,brown,formal,derby
+339,9,black,formal,derby
+340,10,brown,formal,derby
+341,11,black,formal,derby
+342,12,brown,formal,derby
+343,7,blue,casual,derby
+344,8,gray,casual,derby
+345,9,blue,casual,derby
+346,10,gray,casual,derby
+347,11,blue,casual,derby
+348,12,gray,casual,derby
+349,7,brown,formal,loafer
+350,8,black,formal,loafer
+351,9,brown,formal,loafer
+352,10,black,formal,loafer
+353,11,brown,formal,loafer
+354,12,black,formal,loafer
+355,7,blue,casual,loafer
+356,8,gray,casual,loafer
+357,9,blue,casual,loafer
+358,10,gray,casual,loafer
+359,11,blue,casual,loafer
+360,12,gray,casual,loafer
+361,7,brown,formal,oxford
+362,8,black,formal,oxford
+363,9,brown,formal,oxford
+364,10,black,formal,oxford
+365,11,brown,formal,oxford
+366,12,black,formal,oxford
+367,7,black,casual,sneaker
+368,8,white,casual,sneaker
+369,9,black,casual,sneaker
+
+
+370,10,white,casual,sneaker
+371,11,black,casual,sneaker
+372,12,white,casual,sneaker
+373,7,brown,formal,loafer
+374,8,black,formal,loafer
+375,9,brown,formal,loafer
+376,10,black,formal,loafer
+377,11,brown,formal,loafer
+378,12,black,formal,loafer
+379,7,blue,casual,loafer
+380,8,gray,casual,loafer
+381,9,blue,casual,loafer
+382,10,gray,casual,loafer
+383,11,blue,casual,loafer
+384,12,gray,casual,loafer
+385,7,brown,formal,monk strap
+386,8,black,formal,monk strap
+387,9,brown,formal,monk strap
+388,10,black,formal,monk strap
+389,11,brown,formal,monk strap
+390,12,black,formal,monk strap
+391,7,black,casual,boot
+392,8,brown,casual,boot
+393,9,black,casual,boot
+394,10,brown,casual,boot
+395,11,black,casual,boot
+396,12,brown,casual,boot
+397,7,black,formal,derby
+398,8,brown,formal,derby
+399,9,black,formal,derby
+400,10,brown,formal,derby
+401,11,black,formal,derby
+402,12,brown,formal,derby
+403,7,blue,casual,derby
+404,8,gray,casual,derby
+405,9,blue,casual,derby
+406,10,gray,casual,derby
+407,11,blue,casual,derby
+408,12,gray,casual,derby
+409,7,brown,formal,loafer
+410,8,black,formal,loafer
+411,9,brown,formal,loafer
+412,10,black,formal,loafer
+413,11,brown,formal,loafer
+414,12,black,formal,loafer
+415,7,blue,casual,loafer
+416,8,gray,casual,loafer
+417,9,blue,casual,loafer
+418,10,gray,casual,loafer
+419,11,blue,casual,loafer
+420,12,gray,casual,loafer
+421,7,brown,formal,oxford
+422,8,black,formal,oxford
+423,9,brown,formal,oxford
+424,10,black,formal,oxford
+425,11,brown,formal,oxford
+426,12,black,formal,oxford
+427,7,black,casual,sneaker
+428,8,white,casual,sneaker
+429,9,black,casual,sneaker
+430,10,white,casual,sneaker
+431,11,black,casual,sneaker
+432,12,white,casual,sneaker
+433,7,brown,formal,loafer
+434,8,black,formal,loafer
+435,9,brown,formal,loafer
+436,10,black,formal,loafer
+437,11,brown,formal,loafer
+438,12,black,formal,loafer
+439,7,blue,casual,loafer
+440,8,gray,casual,loafer
+441,9,blue,casual,loafer
+442,10,gray,casual,loafer
+443,11,blue,casual,loafer
+444,12,gray,casual,loafer
+445,7,brown,formal,monk strap
+446,8,black,formal,monk strap
+447,9,brown,formal,monk strap
+448,10,black,formal,monk strap
+449,11,brown,formal,monk strap
+450,12,black,formal,monk strap
+451,7,black,casual,boot
+452,8,brown,casual,boot
+453,9,black,casual,boot
+454,10,brown,casual,boot
+455,11,black,casual,boot
+456,12,brown,casual,boot
+457,7,black,formal,derby
+458,8,brown,formal,derby
+459,9,black,formal,derby
+460,10,brown,formal,derby
+461,11,black,formal,derby
+462,12,brown,formal,derby
+463,7,blue,casual,derby
+464,8,gray,casual,derby
+465,9,blue,casual,derby
+466,10,gray,casual,derby
+467,11,blue,casual,derby
+468,12,gray,casual,derby
+469,7,brown,formal,loafer
+470,8,black,formal,loafer
+471,9,brown,formal,loafer
+472,10,black,formal,loafer
+473,11,brown,formal,loafer
+474,12,black,formal,loafer
+475,7,blue,casual,loafer
+476,8,gray,casual,loafer
+477,9,blue,casual,loafer
+478,10,gray,casual,loafer
+479,11,blue,casual,loafer
+480,12,gray,casual,loafer
+481,7,brown,formal,oxford
+482,8,black,formal,oxford
+483,9,brown,formal,oxford
+484,10,black,formal,oxford
+485,11,brown,formal,oxford
+486,12,black,formal,oxford
+487,7,black,casual,sneaker
+488,8,white,casual,sneaker
+489,9,black,casual,sneaker
+490,10,white,casual,sneaker
+491,11,black,casual,sneaker
+492,12,white,casual,sneaker
+493,7,brown,formal,loafer
+494,8,black,formal,loafer
+495,9,brown,formal,loafer
+496,10,black,formal,loafer
+497,11,brown,formal,loafer
+498,12,black,formal,loafer
+499,7,blue,casual,loafer
+500,8,gray,casual,loafer
+501,9,blue,casual,loafer
+502,10,gray,casual,loafer
+503,11,blue,casual,loafer
+504,12,gray,casual,loafer
+505,7,brown,formal,monk strap
+506,8,black,formal,monk strap
+507,9,brown,formal,monk strap
+508,10,black,formal,monk strap
+509,11,brown,formal,monk strap
+510,12,black,formal,monk strap
+511,7,black,casual,boot
+512,8,brown,casual,boot
+513,9,black,casual,boot
+514,10,brown,casual,boot
+515,11,black,casual,boot
+516,12,brown,casual,boot
+517,7,black,formal,derby
+518,8,brown,formal,derby
+519,9,black,formal,derby
+520,10,brown,formal,derby
+521,11,black,formal,derby
+522,12,brown,formal,derby
+523,7,blue,casual,derby
+524,8,gray,casual,derby
+525,9,blue,casual,derby
