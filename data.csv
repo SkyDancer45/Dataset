@@ -1,21 +1,481 @@
 shirt_id,shirt_size,shirt_color,shirt_formality
-1,s,light blue,casual
-2,m,navy,formal
-3,l,black,formal
-4,xl,white,casual
-5,xs,pink,casual
-6,m,green,formal
-7,l,gray,business casual
-8,xl,maroon,casual
-9,s,yellow,casual
-10,m,purple,formal
-11,l,orange,business casual
-12,xl,beige,casual
-13,xs,teal,casual
-14,m,burgundy,formal
-15,l,brown,business casual
-16,xl,olive green,casual
-17,s,lavender,casual
-18,m,navy blue,formal
-19,l,charcoal gray,business casual
-20,xl,sky blue,casual
+21,s,light pink,casual
+22,m,teal,formal
+23,l,navy blue,casual
+24,xl,gray,formal
+25,xs,white,casual
+26,m,black,formal
+27,l,red,casual
+28,xl,green,formal
+29,s,yellow,casual
+30,m,purple,formal
+31,l,maroon,casual
+32,xl,blue,formal
+33,xs,orange,casual
+34,m,brown,formal
+35,l,olive green,casual
+36,xl,beige,formal
+37,s,lavender,casual
+38,m,sky blue,formal
+39,l,ivory,casual
+40,xl,pink,formal
+41,s,light gray,casual
+42,m,dark blue,formal
+43,l,cream,casual
+44,xl,burgundy,formal
+45,xs,taupe,casual
+46,m,magenta,formal
+47,l,light brown,casual
+48,xl,slate gray,formal
+49,s,aqua,casual
+50,m,turquoise,formal
+51,l,forest green,casual
+52,xl,steel blue,formal
+53,xs,indigo,casual
+54,m,peach,formal
+55,l,lime green,casual
+56,xl,coral,formal
+57,s,salmon,casual
+58,m,royal blue,formal
+59,l,navy,navy blue
+60,xl,gray,gray
+61,xs,white,white
+62,m,black,black
+63,l,red,red
+64,xl,green,green
+65,s,yellow,yellow
+66,m,purple,purple
+67,l,maroon,maroon
+68,xl,blue,blue
+69,xs,orange,orange
+70,m,brown,brown
+71,l,olive green,olive green
+72,xl,beige,beige
+73,s,lavender,lavender
+74,m,sky blue,sky blue
+75,l,ivory,ivory
+76,xl,pink,pink
+77,s,light gray,light gray
+78,m,dark blue,dark blue
+79,l,cream,cream
+80,xl,burgundy,burgundy
+81,xs,taupe,taupe
+82,m,magenta,magenta
+83,l,light brown,light brown
+84,xl,slate gray,slate gray
+85,s,aqua,aqua
+86,m,turquoise,turquoise
+87,l,forest green,forest green
+88,xl,steel blue,steel blue
+89,xs,indigo,indigo
+90,m,peach,peach
+91,l,lime green,lime green
+92,xl,coral,coral
+93,s,salmon,salmon
+94,m,royal blue,royal blue
+95,l,navy,navy
+96,xl,gray,gray
+97,xs,white,white
+98,m,black,black
+99,l,red,red
+100,xl,green,green
+101,s,yellow,yellow
+102,m,purple,purple
+103,l,maroon,maroon
+104,xl,blue,blue
+105,xs,orange,orange
+106,m,brown,brown
+107,l,olive green,olive green
+108,xl,beige,beige
+109,s,lavender,lavender
+110,m,sky blue,sky blue
+111,l,ivory,ivory
+112,xl,pink,pink
+113,s,light gray,light gray
+114,m,dark blue,dark blue
+115,l,cream,cream
+116,xl,burgundy,burgundy
+117,xs,taupe,taupe
+118,m,magenta,magenta
+119,l,light brown,light brown
+120,xl,slate gray,slate gray
+121,s,aqua,aqua
+122,m,turquoise,turquoise
+123,l,forest green,forest green
+124,xl,steel blue,steel blue
+125,xs,indigo,indigo
+126,m,peach,peach
+127,l,lime green,lime green
+128,xl,coral,coral
+129,s,salmon,salmon
+130,m,royal blue,royal blue
+131,l,navy,navy
+132,xl,gray,gray
+133,xs,white,white
+134,m,black,black
+135,l,red,red
+136,xl,green,green
+137,s,yellow,yellow
+138,m,purple,purple
+139,l,maroon,maroon
+140,xl,blue,blue
+141,xs,orange,orange
+142,m,brown,brown
+143,l,olive green,olive green
+144,xl,beige,beige
+145,s,lavender,lavender
+146,m,sky blue,sky blue
+147,l,ivory,ivory
+148,xl,pink,pink
+149,s,light gray,light gray
+150,m,dark blue,dark blue
+151,l,cream,cream
+152,xl,burgundy,burgundy
+153,xs,taupe,taupe
+154,m,magenta,magenta
+155,l,light brown,light brown
+156,xl,slate gray,slate gray
+157,s,aqua,aqua
+158,m,turquoise,turquoise
+159,l,forest green,forest green
+160,xl,steel blue,steel blue
+161,xs,indigo,indigo
+162,m,peach,peach
+163,l,lime green,lime green
+164,xl,coral,coral
+165,s,salmon,salmon
+166,m,royal blue,royal blue
+167,l,navy,navy
+168,xl,gray,gray
+169,xs,white,white
+170,m,black,black
+171,l,red,red
+172,xl,green,green
+173,s,yellow,yellow
+174,m,purple,purple
+175,l,maroon,maroon
+176,xl,blue,blue
+177,xs,orange,orange
+178,m,brown,brown
+179,l,olive green,olive green
+180,xl,beige,beige
+181,s,lavender,lavender
+182,m,sky blue,sky blue
+183,l,ivory,ivory
+184,xl,pink,pink
+185,s,light gray,light gray
+186,m,dark blue,dark blue
+187,l,cream,cream
+188,xl,burgundy,burgundy
+189,xs,taupe,taupe
+190,m,magenta,magenta
+191,l,light brown,light brown
+192,xl,slate gray,slate gray
+193,s,aqua,aqua
+194,m,turquoise,turquoise
+195,l,forest green,forest green
+196,xl,steel blue,steel blue
+197,xs,indigo,indigo
+198,m,peach,peach
+199,l,lime green,lime green
+200,xl,coral,coral
+201,s,salmon,salmon
+202,m,royal blue,royal blue
+203,l,navy,navy
+204,xl,gray,gray
+205,xs,white,white
+206,m,black,black
+207,l,red,red
+208,xl,green,green
+209,s,yellow,yellow
+210,m,purple,purple
+211,l,maroon,maroon
+212,xl,blue,blue
+213,xs,orange,orange
+214,m,brown,brown
+215,l,olive green,olive green
+216,xl,beige,beige
+217,s,lavender,lavender
+218,m,sky blue,sky blue
+219,l,ivory,ivory
+220,xl,pink,pink
+221,s,light gray,light gray
+222,m,dark blue,dark blue
+223,l,cream,cream
+224,xl,burgundy,burgundy
+225,xs,taupe,taupe
+226,m,magenta,magenta
+227,l,light brown,light brown
+228,xl,slate gray,slate gray
+229,s,aqua,aqua
+230,m,turquoise,turquoise
+231,l,forest green,forest green
+232,xl,steel blue,steel blue
+233,xs,indigo,indigo
+234,m,peach,peach
+235,l,lime green,lime green
+236,xl,coral,coral
+237,s,salmon,salmon
+238,m,royal blue,royal blue
+239,l,navy,navy
+240,xl,gray,gray
+241,xs,white,white
+242,m,black,black
+243,l,red,red
+244,xl,green,green
+245,s,yellow,yellow
+246,m,purple,purple
+247,l,maroon,maroon
+248,xl,blue,blue
+249,xs,orange,orange
+250,m,brown,brown
+251,l,olive green,olive green
+252,xl,beige,beige
+253,s,lavender,lavender
+254,m,sky blue,sky blue
+255,l,ivory,ivory
+256,xl,pink,pink
+257,s,light gray,light gray
+258,m,dark blue,dark blue
+259,l,cream,cream
+260,xl,burgundy,burgundy
+261,xs,taupe,taupe
+262,m,magenta,magenta
+263,l,light brown,light brown
+264,xl,slate gray,slate gray
+265,s,aqua,aqua
+266,m,turquoise,turquoise
+267,l,forest green,forest green
+268,xl,steel blue,steel blue
+269,xs,indigo,indigo
+270,m,peach,peach
+271,l,lime green,lime green
+272,xl,coral,coral
+273,s,salmon,salmon
+274,m,royal blue,royal blue
+275,l,navy,navy
+276,xl,gray,gray
+277,xs,white,white
+278,m,black,black
+279,l,red,red
+280,xl,green,green
+281,s,yellow,yellow
+282,m,purple,purple
+283,l,maroon,maroon
+284,xl,blue,blue
+285,xs,orange,orange
+286,m,brown,brown
+287,l,olive green,olive green
+288,xl,beige,beige
+289,s,lavender,lavender
+290,m,sky blue,sky blue
+291,l,ivory,ivory
+292,xl,pink,pink
+293,s,light gray,light gray
+294,m,dark blue,dark blue
+295,l,cream,cream
+296,xl,burgundy,burgundy
+297,xs,taupe,taupe
+298,m,magenta,magenta
+299,l,light brown,light brown
+300,xl,slate gray,slate gray
+301,s,aqua,aqua
+302,m,turquoise,turquoise
+303,l,forest green,forest green
+304,xl,steel blue,steel blue
+305,xs,indigo,indigo
+306,m,peach,peach
+307,l,lime green,lime green
+308,xl,coral,coral
+309,s,salmon,salmon
+310,m,royal blue,royal blue
+311,l,navy,navy
+312,xl,gray,gray
+313,xs,white,white
+314,m,black,black
+315,l,red,red
+316,xl,green,green
+317,s,yellow,yellow
+318,m,purple,purple
+319,l,maroon,maroon
+320,xl,blue,blue
+321,xs,orange,orange
+322,m,brown,brown
+323,l,olive green,olive green
+324,xl,beige,beige
+325,s,lavender,lavender
+326,m,sky blue,sky blue
+327,l,ivory,ivory
+328,xl,pink,pink
+329,s,light gray,light gray
+330,m,dark blue,dark blue
+331,l,cream,cream
+332,xl,burgundy,burgundy
+333,xs,taupe,taupe
+334,m,magenta,magenta
+335,l,light brown,light brown
+336,xl,slate gray,slate gray
+337,s,aqua,aqua
+338,m,turquoise,turquoise
+339,l,forest green,forest green
+340,xl,steel blue,steel blue
+341,xs,indigo,indigo
+342,m,peach,peach
+343,l,lime green,lime green
+344,xl,coral,coral
+345,s,salmon,salmon
+346,m,royal blue,royal blue
+347,l,navy,navy
+348,xl,gray,gray
+349,xs,white,white
+350,m,black,black
+351,l,red,red
+352,xl,green,green
+353,s,yellow,yellow
+354,m,purple,purple
+355,l,maroon,maroon
+356,xl,blue,blue
+357,xs,orange,orange
+358,m,brown,brown
+359,l,olive green,olive green
+360,xl,beige,beige
+361,s,lavender,lavender
+362,m,sky blue,sky blue
+363,l,ivory,ivory
+364,xl,pink,pink
+365,s,light gray,light gray
+366,m,dark blue,dark blue
+367,l,cream,cream
+368,xl,burgundy,burgundy
+369,xs,taupe,taupe
+370,m,magenta,magenta
+371,l,light brown,light brown
+372,xl,slate gray,slate gray
+373,s,aqua,aqua
+374,m,turquoise,turquoise
+375,l,forest green,forest green
+376,xl,steel blue,steel blue
+377,xs,indigo,indigo
+378,m,peach,peach
+379,l,lime green,lime green
+380,xl,coral,coral
+381,s,salmon,salmon
+382,m,royal blue,royal blue
+383,l,navy,navy
+384,xl,gray,gray
+385,xs,white,white
+386,m,black,black
+387,l,red,red
+388,xl,green,green
+389,s,yellow,yellow
+390,m,purple,purple
+391,l,maroon,maroon
+392,xl,blue,blue
+393,xs,orange,orange
+394,m,brown,brown
+395,l,olive green,olive green
+396,xl,beige,beige
+397,s,lavender,lavender
+398,m,sky blue,sky blue
+399,l,ivory,ivory
+400,xl,pink,pink
+401,s,light gray,light gray
+402,m,dark blue,dark blue
+403,l,cream,cream
+404,xl,burgundy,burgundy
+405,xs,taupe,taupe
+406,m,magenta,magenta
+407,l,light brown,light brown
+408,xl,slate gray,slate gray
+409,s,aqua,aqua
+410,m,turquoise,turquoise
+411,l,forest green,forest green
+412,xl,steel blue,steel blue
+413,xs,indigo,indigo
+414,m,peach,peach
+415,l,lime green,lime green
+416,xl,coral,coral
+417,s,salmon,salmon
+418,m,royal blue,royal blue
+419,l,navy,navy
+420,xl,gray,gray
+421,xs,white,white
+422,m,black,black
+423,l,red,red
+424,xl,green,green
+425,s,yellow,yellow
+426,m,purple,purple
+427,l,maroon,maroon
+428,xl,blue,blue
+429,xs,orange,orange
+430,m,brown,brown
+431,l,olive green,olive green
+432,xl,beige,beige
+433,s,lavender,lavender
+434,m,sky blue,sky blue
+435,l,ivory,ivory
+436,xl,pink,pink
+437,s,light gray,light gray
+438,m,dark blue,dark blue
+439,l,cream,cream
+440,xl,burgundy,burgundy
+441,xs,taupe,taupe
+442,m,magenta,magenta
+443,l,light brown,light brown
+444,xl,slate gray,slate gray
+445,s,aqua,aqua
+446,m,turquoise,turquoise
+447,l,forest green,forest green
+448,xl,steel blue,steel blue
+449,xs,indigo,indigo
+450,m,peach,peach
+451,l,lime green,lime green
+452,xl,coral,coral
+453,s,salmon,salmon
+454,m,royal blue,royal blue
+455,l,navy,navy
+456,xl,gray,gray
+457,xs,white,white
+458,m,black,black
+459,l,red,red
+460,xl,green,green
+461,s,yellow,yellow
+462,m,purple,purple
+463,l,maroon,maroon
+464,xl,blue,blue
+465,xs,orange,orange
+466,m,brown,brown
+467,l,olive green,olive green
+468,xl,beige,beige
+469,s,lavender,lavender
+470,m,sky blue,sky blue
+471,l,ivory,ivory
+472,xl,pink,pink
+473,s,light gray,light gray
+474,m,dark blue,dark blue
+475,l,cream,cream
+476,xl,burgundy,burgundy
+477,xs,taupe,taupe
+478,m,magenta,magenta
+479,l,light brown,light brown
+480,xl,slate gray,slate gray
+481,s,aqua,aqua
+482,m,turquoise,turquoise
+483,l,forest green,forest green
+484,xl,steel blue,steel blue
+485,xs,indigo,indigo
+486,m,peach,peach
+487,l,lime green,lime green
+488,xl,coral,coral
+489,s,salmon,salmon
+490,m,royal blue,royal blue
+491,l,navy,navy
+492,xl,gray,gray
+493,xs,white,white
+494,m,black,black
+495,l,red,red
+496,xl,green,green
+497,s,yellow,yellow
+498,m,purple,purple
+499,l,maroon,maroon
+500,xl,blue,blue
